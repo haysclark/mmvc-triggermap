@@ -1,0 +1,14 @@
+{
+	"name": "mmvc-triggermap",
+	"url": "http://github.com/haysclark/mmvc-triggermap",
+	"license": "MIT",
+	"description": "TriggerMap for mmvc framework",
+	"version": "1.0.0",
+	"releasenote": "Initial version.",
+	"tags": ["cross","massive","mvc"],
+	"contributors": ["haysclark"],
+	"dependencies":
+	{
+		"mmvc": ""
+	}
+}

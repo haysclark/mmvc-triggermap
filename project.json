@@ -1,0 +1,18 @@
+{
+	"project": 
+	{
+		"name": "MassiveMVC TriggerMap",
+		"version": "1.0.0",
+		"id": "mmvc-triggermap",
+		"devDependencies": 
+		{
+			"hamcrest": "1.x",
+			"mlib": ">=2.3",
+			"munit": "2.x"
+		},
+		"dependencies": 
+		{
+			"mmvc": ">=1.4"
+		}
+	}
+}
